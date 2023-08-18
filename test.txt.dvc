@@ -1,0 +1,12 @@
+md5: e30838e2cb1df42fe89fae7d237d1353
+frozen: true
+deps:
+- path: test.txt
+  repo:
+    url: git@github.com:johnyaku/test_reg.git
+    rev_lock: afafd523927c046fc8804b1aebc1c6efe336aea3
+outs:
+- md5: 0bee89b07a248e27c83fc3d5951213c1
+  size: 4
+  hash: md5
+  path: test.txt
